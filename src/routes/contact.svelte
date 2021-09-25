@@ -1,7 +1,10 @@
+<script>
+	import Hero from '../layout/Hero.svelte'
+</script>
 <head>
 	<title>Contact - Svelte Rocks</title>
 </head>
-<h1><span class="mark">Contact</span> </h1>
+<Hero>Contact</Hero>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 <style>
 
